@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Yogesh<h1>
-<h3 align="justify">I'm a Server Administrator with extensive experience in the field, currently working at TCS. With a keen interest in software development, My technical expertise includes server management, database administration, and troubleshooting complex technical issues. I have a proven track record of delivering high-quality solutions that meet or exceed client expectations. Recently, I have been exploring my passion for backend development, using my skills in Java Springboot to build robust and scalable applications. I am constantly learning and experimenting with new technologies to stay ahead of the curve.</h3>
+  <h2 align='justify'>  I'm a Server Administrator with extensive experience in the field, currently working at TCS. With a keen interest in software development, My technical expertise includes server management, database administration, and troubleshooting complex technical issues. I have a proven track record of delivering high-quality solutions that meet or exceed client expectations. Recently, I have been exploring my passion for backend development, using my skills in Java Springboot to build robust and scalable applications. I am constantly learning and experimenting with new technologies to stay ahead of the curve.<h2>
+    
 
-
+    
+   
 ## Skills and Expertise:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -19,15 +21,32 @@
 
 ##
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-vasanthakumar&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-vasanthakumar" /> </p>
+    
+<img align="right" height="280" width="400" alt="GIF" src="https://github.com/Yogesh-VasanthaKumar/Yogesh-Vasanthakumar/blob/e0dcb92097cfd7ac4d50171cf6a23f279fc12f6a/Resource/Backend%20GitHub.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-vasanthakumar" alt="yogesh-vasanthakumar" /></a> </p>
+- 💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Server Administrator**
+- 📚 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Yogesh-VasanthaKumar) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+    
+    
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Yogesh-VasanthaKumar?tab=repositories)
+    
+- 📫 How to reach me [Mail](mailto:Yogeshvasanthakumar@outlook.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yogesh-VasanthaKumar?tab=repositories](https://github.com/Yogesh-VasanthaKumar?tab=repositories)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hQdL-cHgjBf_KVFc2tH4a4eXPoN_gzLR/view?usp=share_link)
 
-- 📫 How to reach me **Yogeshvasanthakumar@outlook.in**
+<br/>
+<br/>
+  
+  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hQdL-cHgjBf_KVFc2tH4a4eXPoN_gzLR/view?usp=share_link](https://drive.google.com/file/d/1hQdL-cHgjBf_KVFc2tH4a4eXPoN_gzLR/view?usp=share_link)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yogesh-vasanthakumar&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-vasanthakumar" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh-vasanthakumar" alt="yogesh-vasanthakumar" /></a> </p>
+
+
 
 #
 ## Connect with me:
