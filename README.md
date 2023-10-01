@@ -1,5 +1,9 @@
-<h1 align="center"> Hi there 👋, I'm Yogesh<h1>
-  <h2 align='justify'>  I'm a Server Administrator with extensive experience in the field, currently working at TCS. With a keen interest in software development, My technical expertise includes server management, database administration, and troubleshooting complex technical issues. I have a proven track record of delivering high-quality solutions that meet or exceed client expectations. Recently, I have been exploring my passion for backend development, using my skills in Java Springboot to build robust and scalable applications. I am constantly learning and experimenting with new technologies to stay ahead of the curve.<h2>
+<h1 align="center"> Hi there 👋, I'm Yogesh <h1>
+  <h2 align='justify'>As a System Architect at TCS with a strong background in Model-Based Systems Engineering (MBSE), I am passionate about solving complex challenges in the ever-evolving world of technology. With year of experience in the automotive industry, I have honed my skills in systems architecture, design, and integration.
+
+Beyond my role as a System Architect, I'm also a dedicated enthusiast of frontend development, exploring the creative aspects of user interface design and the art of coding. This dual passion empowers me to approach challenges from both a technical and user-centric perspective.
+
+I believe in the power of continuous learning and staying at the forefront of emerging technologies. Let's connect to explore opportunities for collaboration, share insights, or simply discuss the exciting developments in the tech and engineering fields.<h2>
     
 
     
