@@ -28,8 +28,8 @@ I believe in the power of continuous learning and staying at the forefront of em
     
 <img align="right" height="280" width="400" alt="GIF" src="https://github.com/Yogesh-VasanthaKumar/Yogesh-Vasanthakumar/blob/e0dcb92097cfd7ac4d50171cf6a23f279fc12f6a/Resource/Backend%20GitHub.gif" />
 
-- 💻 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as **Server Administrator**
-- 📚 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💻 𝙸’m a System Architect
+- 📚 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **FrontEnd Web Development**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/Yogesh-VasanthaKumar) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
@@ -39,7 +39,7 @@ I believe in the power of continuous learning and staying at the forefront of em
     
 - 📫 How to reach me [Mail](mailto:Yogeshvasanthakumar@outlook.in)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hQdL-cHgjBf_KVFc2tH4a4eXPoN_gzLR/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/10zQTS7DY5uvwsWdkgokUbe8-5GL9ZrtWm22aWH-Xw0k/edit?usp=sharing)
 
 <br/>
 <br/>
